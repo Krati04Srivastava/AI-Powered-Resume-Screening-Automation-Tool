@@ -1,0 +1,10 @@
+Python
+SQL
+Pandas
+NumPy
+Git
+REST API
+Automation
+Flask
+OOP
+SDLC

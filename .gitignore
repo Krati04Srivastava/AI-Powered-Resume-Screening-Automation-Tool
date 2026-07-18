@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+.env/
+
+# Ignore resumes
+resumes/
+
+# Ignore output reports
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
